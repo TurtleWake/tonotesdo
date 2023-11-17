@@ -48,6 +48,11 @@ div.sidebar {
     padding: 25px;
 }
 
+.sidebar.hidden {
+    display: none;
+}
+
+
 .sidebar li {
     list-style: none;
     align-self: left;
